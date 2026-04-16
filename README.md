@@ -20,16 +20,16 @@ python -m pytest -v
 ##  Website Tested
 https://practicetestautomation.com/practice-test-login/
 
-## 📸 Output Screenshots
+## Output Screenshots
 
-### 1. Test Execution Output
-![Test Output](image1.png)
+### 1. Valid Login Test
+![Valid Login](valid_login.png)
 
-### 2. Valid Login Automation
-![Valid Login](image2.png)
+### 2. Invalid Login Test
+![Invalid Login](invalid_login.png)
 
-### 3. Invalid Login Test
-![Invalid Login](image3.png)
+### 3. Empty Input Test
+![Empty Input](empty_input.png)
 
-### 4. Logout / Other Test
-![Logout](image4.png)
+### 4. Forgot Password Test
+![Forgot Password](forget_password.png)
